@@ -1,5 +1,5 @@
 {
-    "name": "valeriy/untitled",
+    "name": "valeriy/transformer",
     "autoload": {
         "classmap": [
             "src/"
