@@ -3,7 +3,7 @@
 php composer.phar install
 ````
 
-# Запуск текстов
+# Запуск тестов
 ````
 ./vendor/bin/phpunit
 ````
