@@ -1,0 +1,17 @@
+{
+    "name": "valeriy/untitled",
+    "autoload": {
+        "classmap": [
+            "src/"
+        ]
+    },
+    "authors": [
+        {
+            "name": "baranov.v.a",
+            "email": "baranov.v.a@eltel.com"
+        }
+    ],
+    "require-dev": {
+        "phpunit/phpunit": "6.0.0"
+    }
+}
